@@ -1,5 +1,3 @@
 {
-  "framework": "jasmine2",
-  "spec_dir": "spec",
-  "spec_files": ["bubblesort.spec.js"]
+  "framework": "jasmine2"
 }
