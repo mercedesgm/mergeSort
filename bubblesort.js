@@ -56,7 +56,7 @@ const bubbleSortWithCallback = (arr, comparatorFunc) => {
 
 // console.log(bubbleSort([2, 1]));
 
-console.log(bubbleSortWithCallback([5, 1, -1, 10, 9], (a, b) => a - b));
+
 
 // module.exports = bubbleSort;
 
